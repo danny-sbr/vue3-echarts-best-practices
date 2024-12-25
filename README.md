@@ -10,7 +10,7 @@
 
 - 展示如何正確處理 ECharts 實例的生命週期
 - 在元件卸載時適當釋放資源
-- 使用 `onUnmount` 清理 ECharts 實例
+- 使用 `onUnmounted` 清理 ECharts 實例
 
 ### 2. 資料更新處理方式
 
